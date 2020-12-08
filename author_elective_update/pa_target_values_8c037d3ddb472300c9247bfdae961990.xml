@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="DELETE">
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 16:36:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c037d3ddb472300c9247bfdae961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_target_values_8c037d3ddb472300c9247bfdae961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 16:36:19</sys_updated_on>
+        <target display_value="Earthquakes:  Monthly New">a3f2713ddb472300c9247bfdae961973</target>
+        <target_at>20181001</target_at>
+        <value>6</value>
+    </pa_target_values>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</application>
+        <file_path/>
+        <instance_id>ed8d2d802bbdbc04ecf7bb4f59da15ad</instance_id>
+        <instance_name>empbsweets</instance_name>
+        <name>pa_target_values_8c037d3ddb472300c9247bfdae961990</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="INSERT_OR_UPDATE">
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 16:36:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c037d3ddb472300c9247bfdae961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_target_values_8c037d3ddb472300c9247bfdae961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 16:36:19</sys_updated_on>
+        <target display_value="Earthquakes:  Monthly New">a3f2713ddb472300c9247bfdae961973</target>
+        <target_at>20181001</target_at>
+        <value>6</value>
+    </pa_target_values>
+</record_update>]]></payload>
+        <payload_hash>-1579012788</payload_hash>
+        <record_name>6</record_name>
+        <reverted_from/>
+        <source>cf7296261bf02010b81fdce7cc4bcb22</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-03 15:13:12</sys_created_on>
+        <sys_id>4f92de261bf02010b81fdce7cc4bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176292a161c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-03 15:13:12</sys_updated_on>
+        <type>Target value</type>
+        <update_guid>0f92de2698f020102a56803a491a9d87</update_guid>
+        <update_guid_history>0f92de2698f020102a56803a491a9d87:-1579012788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="6">02e047ff1bb42010a047ca641a4bcb01</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 15:47:53</sys_created_on>
+        <sys_db_object display_value="" name="pa_target_values">pa_target_values</sys_db_object>
+        <sys_id>03e4609a83494258801b87c1f3d74810</sys_id>
+        <sys_metadata>8c037d3ddb472300c9247bfdae961990</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_parent display_value="13198367db0523006a326a49489619ed">a3f2713ddb472300c9247bfdae961973</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_scope_delete display_value="">0b28a558b7194efc809c48a2aa8a6d90</sys_scope_delete>
+        <sys_update_name>pa_target_values_8c037d3ddb472300c9247bfdae961990</sys_update_name>
+        <sys_update_version display_value="pa_target_values_8c037d3ddb472300c9247bfdae961990">4f92de261bf02010b81fdce7cc4bcb87</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 15:47:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

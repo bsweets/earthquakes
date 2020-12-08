@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Earthquake Historic - Earthquakes: Monthly New</display>
+        <indicator display_value="Earthquakes: Monthly New">7efe9169db0b2300c9247bfdae961917</indicator>
+        <job display_value="Earthquake Historic">13a9d8acdb2123006a326a49489619e2</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 01:04:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb9d1a61db0f2300c9247bfdae9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earthquakes: Monthly New.Earthquake Historic</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_job_indicators_bb9d1a61db0f2300c9247bfdae9619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 01:04:03</sys_updated_on>
+    </pa_job_indicators>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</application>
+        <file_path/>
+        <instance_id>ed8d2d802bbdbc04ecf7bb4f59da15ad</instance_id>
+        <instance_name>empbsweets</instance_name>
+        <name>pa_job_indicators_bb9d1a61db0f2300c9247bfdae9619c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Earthquake Historic - Earthquakes: Monthly New</display>
+        <indicator display_value="Earthquakes: Monthly New">7efe9169db0b2300c9247bfdae961917</indicator>
+        <job display_value="Earthquake Historic">13a9d8acdb2123006a326a49489619e2</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 01:04:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb9d1a61db0f2300c9247bfdae9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earthquakes: Monthly New.Earthquake Historic</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_job_indicators_bb9d1a61db0f2300c9247bfdae9619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 01:04:03</sys_updated_on>
+    </pa_job_indicators>
+</record_update>]]></payload>
+        <payload_hash>-1679958783</payload_hash>
+        <record_name>Earthquake Historic - Earthquakes: Monthly New</record_name>
+        <reverted_from/>
+        <source>cf7296261bf02010b81fdce7cc4bcb22</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-03 15:13:12</sys_created_on>
+        <sys_id>cb92de261bf02010b81fdce7cc4bcb6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176292a14760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-03 15:13:12</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>8b92de2691f0201029af81ef9b69896d</update_guid>
+        <update_guid_history>8b92de2691f0201029af81ef9b69896d:-1679958783</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Earthquake Historic - ">81f4e4c71b342010b81fdce7cc4bcbb6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 20:31:04</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>230506e78158403686722120bfbfaaf9</sys_id>
+        <sys_metadata>bb9d1a61db0f2300c9247bfdae9619c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earthquakes: Monthly New.Earthquake Historic</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_parent display_value="Earthquake Historic">13a9d8acdb2123006a326a49489619e2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_scope_delete display_value="">0b28a558b7194efc809c48a2aa8a6d90</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_bb9d1a61db0f2300c9247bfdae9619c5</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_bb9d1a61db0f2300c9247bfdae9619c5">cb92de261bf02010b81fdce7cc4bcb6d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 20:31:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

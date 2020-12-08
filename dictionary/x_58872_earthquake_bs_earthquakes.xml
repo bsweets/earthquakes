@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="BS Earthquakes" max_length="40" name="x_58872_earthquake_bs_earthquakes" sizeclass="2692" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=Deaths" label="Deaths" max_length="40" name="u_deaths" type="integer"/>
+        <element attributes="import_attribute_name=Dy" label="Dy" max_length="40" name="u_dy" type="integer"/>
+        <element attributes="import_attribute_name=Houses Damaged" label="Houses Damaged" max_length="40" name="u_houses_damaged" type="integer"/>
+        <element attributes="import_attribute_name=Houses Destroyed" label="Houses Destroyed" max_length="40" name="u_houses_destroyed" type="integer"/>
+        <element attributes="import_attribute_name=Hr" label="Hr" max_length="40" name="u_hr" type="integer"/>
+        <element attributes="import_attribute_name=Injuries" label="Injuries" max_length="40" name="u_injuries" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Latitude" label="Latitude" max_length="40" name="u_latitude" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Longitude" label="Longitude" max_length="40" name="u_longitude" type="string"/>
+        <element attributes="import_attribute_name=Mag" label="Mag" max_length="15" name="u_mag" type="decimal"/>
+        <element attributes="import_attribute_name=Mn" label="Mn" max_length="40" name="u_mn" type="integer"/>
+        <element attributes="import_attribute_name=Mo" label="Mo" max_length="40" name="u_mo" type="integer"/>
+        <element attributes="import_attribute_name=Sec" label="Sec" max_length="15" name="u_sec" type="decimal"/>
+        <element attributes="import_attribute_name=Tsu" label="Tsu" max_length="40" name="u_tsu" type="integer"/>
+        <element attributes="import_attribute_name=Year" label="Year" max_length="40" name="u_year" type="integer"/>
+    </element>
+</database>

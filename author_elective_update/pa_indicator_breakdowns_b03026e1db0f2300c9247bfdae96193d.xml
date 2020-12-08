@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="DELETE">
+        <breakdown display_value="Eathquakes by Day">ff05c03edb6123006a326a4948961918</breakdown>
+        <display>true</display>
+        <indicator display_value="Earthquakes: Monthly New">7efe9169db0b2300c9247bfdae961917</indicator>
+        <order>200</order>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 01:15:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b03026e1db0f2300c9247bfdae96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eathquakes by Day.Earthquakes: Monthly New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_b03026e1db0f2300c9247bfdae96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 01:15:19</sys_updated_on>
+    </pa_indicator_breakdowns>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</application>
+        <file_path/>
+        <instance_id>ed8d2d802bbdbc04ecf7bb4f59da15ad</instance_id>
+        <instance_name>empbsweets</instance_name>
+        <name>pa_indicator_breakdowns_b03026e1db0f2300c9247bfdae96193d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="Eathquakes by Day">ff05c03edb6123006a326a4948961918</breakdown>
+        <display>true</display>
+        <indicator display_value="Earthquakes: Monthly New">7efe9169db0b2300c9247bfdae961917</indicator>
+        <order>200</order>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 01:15:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b03026e1db0f2300c9247bfdae96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eathquakes by Day.Earthquakes: Monthly New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_b03026e1db0f2300c9247bfdae96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 01:15:19</sys_updated_on>
+    </pa_indicator_breakdowns>
+</record_update>]]></payload>
+        <payload_hash>949617073</payload_hash>
+        <record_name>7efe9169db0b2300c9247bfdae961917</record_name>
+        <reverted_from/>
+        <source>cf7296261bf02010b81fdce7cc4bcb22</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-03 15:13:11</sys_created_on>
+        <sys_id>b692de261bf02010b81fdce7cc4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176292a116f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-03 15:13:11</sys_updated_on>
+        <type>Indicator Breakdown</type>
+        <update_guid>7692de26d5f02010b7ab5e4a91bb3448</update_guid>
+        <update_guid_history>7692de26d5f02010b7ab5e4a91bb3448:949617073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7cf4e4c71b342010b81fdce7cc4bcb9f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 20:31:04</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicator_breakdowns">pa_indicator_breakdowns</sys_db_object>
+        <sys_id>2f542b4c8c4b4ee497532f7ccb8f93e9</sys_id>
+        <sys_metadata>b03026e1db0f2300c9247bfdae96193d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eathquakes by Day.Earthquakes: Monthly New</sys_name>
+        <sys_package display_value="Earthquakes" source="x_58872_earthquake">f6120c5ddbb023006a326a49489619cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Earthquakes">f6120c5ddbb023006a326a49489619cd</sys_scope>
+        <sys_scope_delete display_value="">0b28a558b7194efc809c48a2aa8a6d90</sys_scope_delete>
+        <sys_update_name>pa_indicator_breakdowns_b03026e1db0f2300c9247bfdae96193d</sys_update_name>
+        <sys_update_version display_value="pa_indicator_breakdowns_b03026e1db0f2300c9247bfdae96193d">b692de261bf02010b81fdce7cc4bcb48</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 20:31:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
