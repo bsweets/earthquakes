@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="BS Earthquakes" max_length="40" name="x_58872_earthquake_bs_earthquakes" sizeclass="2692" type="collection">
+    <element extends="sys_import_set_row" label="BS Earthquakes" max_length="40" name="x_58872_earthquake_bs_earthquakes" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
         <element attributes="import_attribute_name=Deaths" label="Deaths" max_length="40" name="u_deaths" type="integer"/>
         <element attributes="import_attribute_name=Dy" label="Dy" max_length="40" name="u_dy" type="integer"/>
